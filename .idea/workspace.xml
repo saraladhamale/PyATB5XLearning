@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4f37d09-cedf-404a-aab5-4aeaed7461f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pyATB5XlEARNING.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab001 python hello world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab002python basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab003pythonbasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab006-variable types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab007-variable identifier rules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab008-Dynamic type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab009 Long variable name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab014Math_Fun.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saraladhamale&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/saraladhamale/PyATB5XLearning.git&quot;,
+    &quot;accountId&quot;: &quot;5d109757-a590-4db2-be1c-e8e6fa886615&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2oqvYIGeQz05dWsmYul6EEbjDn0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001 python hello world.executor": "Run",
+    "Python.Lab002python basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab007-variable identifier rules.executor": "Run",
+    "Python.Lab008-Dynamic type.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
+    "Python.Lab014Math_Fun.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab001 python hello world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5XlEARNING" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex051124pythonbasics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex051124pythonbasics/Lab001 python hello world.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab001 python hello world" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f37d09-cedf-404a-aab5-4aeaed7461f4" name="Changes" comment="" />
+      <created>1731609966231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731609966231</updated>
+    </task>
+    <servers />
+  </component>
+</project>

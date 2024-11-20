@@ -4,28 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4f37d09-cedf-404a-aab5-4aeaed7461f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pyATB5XlEARNING.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab001 python hello world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab002python basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab003pythonbasics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab006-variable types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab007-variable identifier rules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab008-Dynamic type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab009 Long variable name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab014Math_Fun.py" afterDir="false" />
+    <list default="true" id="f4f37d09-cedf-404a-aab5-4aeaed7461f4" name="Changes" comment="python">
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab0034operatorp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab031operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab032 arithmatic operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab033 operator p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab016 iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab020Builtin Fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab021 user input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab022 user input sum of two no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab023string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab024string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab025string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab026literals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab027 escape carrector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab028 escape char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab029 task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab030 task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,7 @@
   "keyToString": {
     "Python.Lab001 python hello world.executor": "Run",
     "Python.Lab002python basics.executor": "Run",
+    "Python.Lab0034operatorp2.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab007-variable identifier rules.executor": "Run",
@@ -78,6 +81,24 @@
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
     "Python.Lab014Math_Fun.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020Builtin Fun.executor": "Run",
+    "Python.Lab021 user input.executor": "Run",
+    "Python.Lab022 user input sum of two no.executor": "Run",
+    "Python.Lab023string.executor": "Run",
+    "Python.Lab024string.executor": "Run",
+    "Python.Lab025string.executor": "Run",
+    "Python.Lab026literals.executor": "Run",
+    "Python.Lab027 escape carrector.executor": "Run",
+    "Python.Lab028 escape char.executor": "Run",
+    "Python.Lab029 task.executor": "Run",
+    "Python.Lab030 task2.executor": "Run",
+    "Python.Lab031operator.executor": "Run",
+    "Python.Lab032 arithmatic operator.executor": "Run",
+    "Python.Lab033 operator p1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -86,6 +107,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov" />
+      <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov\Ex_091124 Literals$variables" />
     </key>
   </component>
   <component name="RunManager">
@@ -133,6 +155,27 @@
       <option name="presentableId" value="Default" />
       <updated>1731609966231</updated>
     </task>
+    <task id="LOCAL-00001" summary="python">
+      <option name="closed" value="true" />
+      <created>1731926354665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731926354665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="python">
+      <option name="closed" value="true" />
+      <created>1731927353887</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731927353887</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python" />
+    <option name="LAST_COMMIT_MESSAGE" value="python" />
   </component>
 </project>

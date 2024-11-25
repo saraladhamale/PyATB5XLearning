@@ -5,29 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4f37d09-cedf-404a-aab5-4aeaed7461f4" name="Changes" comment="python">
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab0034operatorp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab031operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab032 arithmatic operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab033 operator p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab016 iq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab020Builtin Fun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab021 user input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab022 user input sum of two no.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab023string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab024string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab025string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab026literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab027 escape carrector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab028 escape char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab029 task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab030 task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab0034operatorp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab035 operatorp3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab036 operator p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab037operatorp5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab039 operator p7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab040iq for operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab041divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab042 increa decrea op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab043turnary operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab044 user input turnary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab046task if else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab047 task no operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-121124operator/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-141124 condition/Lab049 condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-141124 condition/Lab050 compaire three no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-141124 condition/Lab051 grade calc iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-141124 condition/Leafyear task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex-141124 condition/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab052 loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab053 for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab054 for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab056.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab057 negetive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab058.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab059 while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab060 for with if con.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab061 break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab062.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab063 pass break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab064 brak and contnue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab065.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab066.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab067 match and case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/Lab068 task fizzbuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex161124 Loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab070 reuse fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab073 pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab074 arg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab075 input fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab076 type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab077  ipt retn fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab078iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab079 multi args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab080args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex19112024 function/Lab71built in fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab080 global and local variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab081.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab082 same name glo local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab083 inner fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab084Decorator fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab085 decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab086 without decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab087syntax for decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab088 convert int to str.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/Lab089 for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex211126 fun scope/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab048 task max no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/ex071124-keywords-identifier-variables/Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab0034operatorp2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab031operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab031operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab032 arithmatic operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab032 arithmatic operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/Lab033 operator p1.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab033 operator p1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Ex-121124operator/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/Ex-121124operator/Lab038operatorp6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab030 task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/Ex_091124 Literals$variables/Lab030 task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab001 python hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/nov/ex051124pythonbasics/Lab001 python hello world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +146,60 @@
     "Python.Lab031operator.executor": "Run",
     "Python.Lab032 arithmatic operator.executor": "Run",
     "Python.Lab033 operator p1.executor": "Run",
+    "Python.Lab035 operatorp3.executor": "Run",
+    "Python.Lab036 operator p4.executor": "Run",
+    "Python.Lab037operatorp5.executor": "Run",
+    "Python.Lab039 operator p7.executor": "Run",
+    "Python.Lab040iq for operator.executor": "Run",
+    "Python.Lab041divmod.executor": "Run",
+    "Python.Lab042 increa decrea op.executor": "Run",
+    "Python.Lab043turnary operator.executor": "Run",
+    "Python.Lab044 user input turnary.executor": "Run",
+    "Python.Lab045.executor": "Run",
+    "Python.Lab046task if else.executor": "Run",
+    "Python.Lab047 task no operator.executor": "Run",
+    "Python.Lab048 task max no.executor": "Run",
+    "Python.Lab050 compaire three no.executor": "Run",
+    "Python.Lab051 grade calc iq.executor": "Run",
+    "Python.Lab052 loops.executor": "Run",
+    "Python.Lab053 for loop.executor": "Run",
+    "Python.Lab054 for loop.executor": "Run",
+    "Python.Lab055.executor": "Run",
+    "Python.Lab056.executor": "Run",
+    "Python.Lab057 negetive.executor": "Run",
+    "Python.Lab058.executor": "Run",
+    "Python.Lab059 while loop.executor": "Run",
+    "Python.Lab059.executor": "Run",
+    "Python.Lab060 for with if con.executor": "Run",
+    "Python.Lab061 break.executor": "Run",
+    "Python.Lab062.executor": "Run",
+    "Python.Lab063 pass break.executor": "Run",
+    "Python.Lab064 brak and contnue.executor": "Run",
+    "Python.Lab065.executor": "Run",
+    "Python.Lab066.executor": "Run",
+    "Python.Lab067 match and case.executor": "Run",
+    "Python.Lab068 task fizzbuzz.executor": "Run",
+    "Python.Lab069.executor": "Run",
+    "Python.Lab070 reuse fun.executor": "Run",
+    "Python.Lab072.executor": "Run",
+    "Python.Lab073 pass.executor": "Run",
+    "Python.Lab074 arg.executor": "Run",
+    "Python.Lab075 input fun.executor": "Run",
+    "Python.Lab076 type.executor": "Run",
+    "Python.Lab077  ipt retn fun.executor": "Run",
+    "Python.Lab078iq.executor": "Run",
+    "Python.Lab079 multi args.executor": "Run",
+    "Python.Lab080 global and local variable.executor": "Run",
+    "Python.Lab080args.executor": "Run",
+    "Python.Lab081.executor": "Run",
+    "Python.Lab083 inner fun.executor": "Run",
+    "Python.Lab084Decorator fun.executor": "Run",
+    "Python.Lab085 decorator.executor": "Run",
+    "Python.Lab086 without decorator.executor": "Run",
+    "Python.Lab087syntax for decorator.executor": "Run",
+    "Python.Lab088 convert int to str.executor": "Run",
+    "Python.Lab71built in fun.executor": "Run",
+    "Python.hello.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -106,8 +207,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov\Ex211126 fun scope" />
       <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov" />
       <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov\Ex_091124 Literals$variables" />
+      <recent name="C:\Users\RAJU\PycharmProjects\pyATB5XlEARNING\nov\Ex_091124 Literals$variables\Ex-141124 condition" />
     </key>
   </component>
   <component name="RunManager">
@@ -133,9 +236,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab060 for with if con" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyATB5XlEARNING" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nov/Ex161124 Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nov/Ex161124 Loops/Lab060 for with if con.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Lab001 python hello world" />
+        <item itemvalue="Python.Lab060 for with if con" />
       </list>
     </recent_temporary>
   </component>
